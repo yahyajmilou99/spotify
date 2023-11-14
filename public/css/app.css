@@ -31,7 +31,7 @@ input{
     display: none;
 }
 
-@media (max-width: 376px) {
+@media (max-width: 426px) {
     .navbar{
         height: 100vh;
         width: 30vw;
